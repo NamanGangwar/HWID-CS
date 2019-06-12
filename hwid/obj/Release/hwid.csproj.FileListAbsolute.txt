@@ -1,0 +1,6 @@
+C:\Users\tux13\source\repos\hwid\hwid\bin\Release\hwid.exe.config
+C:\Users\tux13\source\repos\hwid\hwid\bin\Release\hwid.exe
+C:\Users\tux13\source\repos\hwid\hwid\bin\Release\hwid.pdb
+C:\Users\tux13\source\repos\hwid\hwid\obj\Release\hwid.csproj.CoreCompileInputs.cache
+C:\Users\tux13\source\repos\hwid\hwid\obj\Release\hwid.exe
+C:\Users\tux13\source\repos\hwid\hwid\obj\Release\hwid.pdb
